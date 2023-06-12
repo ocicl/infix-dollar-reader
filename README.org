@@ -1,0 +1,10 @@
+* infix-dollar-reader
+
+Infix $ operator for reduce redundant paranthesis
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ichimal/infix-dollar-reader.git   |
+| commit  | a4d6315  |
+| systems | infix-dollar-reader |
+|---------+-------------------------------------------|
+
