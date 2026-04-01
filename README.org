@@ -8,3 +8,4 @@ Infix $ operator for reduce redundant paranthesis
 | systems | infix-dollar-reader |
 |---------+-------------------------------------------|
 
+ 
